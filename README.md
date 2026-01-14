@@ -1,1 +1,1 @@
-# This is the entire collection of notes by groups.
+# These are the notes, organized by the groups.
