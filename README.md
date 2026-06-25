@@ -1,1 +1,1 @@
-# These are the notes, organized by the groups.
+# notes for ML course
